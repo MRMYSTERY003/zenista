@@ -19,7 +19,7 @@ function Events() {
         </div>
         <div className='a-container'>
             <Eventbox image = {fimgae4} title = "DEBATE" text = "some content"/>
-            <Eventbox image = {fimgae5} title = "PORTPOLI" text = "some content"/>
+            <Eventbox image = {fimgae5} title = "POT POURRI" text = "some content"/>
         </div>
     </div>
   )

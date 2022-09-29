@@ -12,9 +12,10 @@ function Ourteam() {
         <h1>OUR TEAM</h1>
         <div className='pro-container'>
             <div className='pro-head'>
-                <h2>principal</h2>
+                <h2>PRINCIPAL</h2>
             </div>
             <div className='pro-img'>
+                
                 <Profilebox image = {principal} title = "PRINCIPAL" text = "contact details "/>
             </div>
         </div>
@@ -39,13 +40,13 @@ function Ourteam() {
             <div className='pro-head'>
                 <h2>Organizers</h2>
             </div>
-            <div className='pro-img'>
+            <div className='pro-img-4'>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
             </div>
-            <div className='pro-img'>
+            <div className='pro-img-4'>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
@@ -56,7 +57,7 @@ function Ourteam() {
             <div className='pro-head'>
                 <h2>Technical Support</h2>
             </div>
-            <div className='pro-img'>
+            <div className='pro-img-3'>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
                 <Profilebox image = {fimgae1} title = "PRINCIPAL" text = "contact details "/>
